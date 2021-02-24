@@ -2,4 +2,3 @@
 
 * Dr. Doom
 * Cráneo rojo
-* Aquaman
